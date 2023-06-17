@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Krunalkadu97/Krunalkadu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on React Native and React.js.<br>🌱 I’m currently learning more about TypeScript and Node.<br>💬 Ask me about React Native and React..<br>😄 Pronouns: Krunal<br>
 
